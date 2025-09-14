@@ -1,0 +1,9 @@
+# Dependências do Node
+node_modules
+
+# Banco de Dados
+database/tasks_grpc.db
+
+# Arquivos de ambiente e logs
+.env
+npm-debug.log
